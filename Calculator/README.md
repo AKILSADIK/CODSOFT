@@ -8,7 +8,7 @@ Simple Project Calculator with Vite + ReactJs
 ## Installation
 To run this project, follow these steps:
    ```bash
-   git clone https://github.com/ilsyaa/calculator-react.git
+   git clone https://github.com/AKILSADIK/Calculator.git
 
    cd calculator-react
 
